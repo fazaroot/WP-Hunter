@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
 [![Security](https://img.shields.io/badge/Security-SAST-red.svg)](https://github.com/fazaroot)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
@@ -112,4 +111,4 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 * ✅ **Permissions:** Commercial use, Modification, Distribution, and Private use.
 * ⚠️ **Conditions:** You MUST include a copy of the original license and copyright notice. You MUST provide the source code of any modifications.
 * ❌ **Prohibitions:** You cannot hold the author liable for damages. Re-branding without attribution is a violation of this license.
-* 
+  
