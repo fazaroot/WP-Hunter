@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 """
+WP-Hunter: Advanced WordPress SAST & Vulnerability Scanner
+Copyright © 2026 fazaroot
+Licensed under the GNU GPL v3.0
+Unauthorized copying, selling, or redistribution is prohibited
 WordPress Plugin CVE Scanner Pro Elite Edition
 Advanced vulnerability scanner dengan Deep Analysis & Entropy Detection
 """
