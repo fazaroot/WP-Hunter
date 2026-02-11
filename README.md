@@ -56,10 +56,10 @@ cd wp-hunter
 
 ##💻 Usage
 Basic Scan (Single Plugin):
-python3 scanner.py plugin-name.zip
+python3 wpscan-elite.py plugin-name.zip
 
 Scan with Custom Report Output:
-python3 scanner.py target-plugin.zip report.json
+python3 wpscan-elite.py target-plugin.zip report.json
 
 Bulk Scanning:
 You can automate this tool using bash loops to scan entire directories of downloaded plugins.
